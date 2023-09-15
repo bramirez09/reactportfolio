@@ -1,0 +1,20 @@
+#aboutme{
+    height: calc(100vh-4rem);
+    width:100vw;
+    max-width:75rem;
+    margin:0 auto;
+    overflow: hidden;
+    position: relative;
+} 
+
+.avatar {
+    overflow: hidden;
+    background-color: 236, 232, 235;
+    mix-blend-mode: multiply;
+    border-radius: 50%;
+}  
+
+body {
+    color: 73, 133, 96;
+    /* background-color:rgb(219, 217, 217); */
+}

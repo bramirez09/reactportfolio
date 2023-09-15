@@ -7,10 +7,10 @@ const Navbar = () => {
         <nav className="navbar">
             <img src ="" alt = ""/>
                 <div className = "desktopMenu">
-                    <Link className = "desktopMenuListItem">About Me</Link>
-                    <Link className = "desktopMenuListItem">Portfolio</Link>
-                    <Link className = "desktopMenuListItem">Contact</Link>
-                    <Link className = "desktopMenuListItem">Resume</Link>
+                    <Link className ="desktopMenuListItem">About Me</Link>
+                    <Link className ="desktopMenuListItem">Portfolio</Link>
+                    <Link className ="desktopMenuListItem">Resume</Link>
+                    <Link className ="desktopMenuListItem">Contact Me</Link>
                 </div>
                 <button className = "desktopMenuBtn">
                     <img src = "" alt= "" className = "desktopMenuImg"/>Contact Me</button>
