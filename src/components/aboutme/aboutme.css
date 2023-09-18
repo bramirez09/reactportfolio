@@ -19,12 +19,13 @@ body {
     /* background-color:rgb(219, 217, 217); */
 }
 
-.hi {
+.intro {
     height: calc(100vw -4 rem);
     width: 100vw;
     max-width: 75rem;
     margin: 0 auto;
     overflow: hidden;
     position: relative;
-
+    background-color:  rgb(221, 171, 219);
+    border-radius: 30%;
 }
